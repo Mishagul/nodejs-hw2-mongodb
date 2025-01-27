@@ -1,11 +1,12 @@
 {
-  "name": "nodejs-hw-mongodb",
+  "name": "nodejs-hw2-mongodb",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "Misha_Gulkevih <mishagulkevih337@gmail.com>",
