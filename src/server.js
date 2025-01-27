@@ -18,7 +18,7 @@ const setupServer = () => {
 
   app.use(cors());
 
-
+  app.use(cors());
   app.use('/contacts', contactsRouter);
 
   app.listen(PORT, () => {
