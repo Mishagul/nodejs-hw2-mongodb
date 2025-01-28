@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Andrii_Slipko <andreyslipko0703@gmail.com>",
+  "author": "Misha_Gulkevih <mishagulkevih337@gmail.com>",
   "license": "ISC",
   "description": "",
   "devDependencies": {
